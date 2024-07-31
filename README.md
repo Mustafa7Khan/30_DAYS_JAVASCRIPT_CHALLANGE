@@ -1,2 +1,2 @@
 # 60DaysOfLeetCode
-I will be solving 1 LeetCode problem everyday 
+I will be practice 1 javaScript problem everyday
